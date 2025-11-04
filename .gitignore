@@ -1,0 +1,6 @@
+logs/
+public/
+vendor/
+.htaccess
+.env
+*.log

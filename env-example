@@ -1,0 +1,23 @@
+# conexion de base de datos
+DB_HOST=
+DB_NAME=
+DB_USER=
+DB_PASS=
+
+# puerto de la aplicacion
+FRONTEND_ORIGIN=http://localhost:5173
+
+
+
+#correos
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=587
+MAIL_ENCRYPTION=tls
+MAIL_USERNAME=
+MAIL_PASSWORD=
+MAIL_FROM=
+MAIL_NAME=
+
+
+JWT_SECRET= clave secreta
+JWT_EXPIRE=3600000
